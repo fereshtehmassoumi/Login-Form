@@ -1,4 +1,4 @@
-namespace WinFormsApp3
+namespace DönnerFastFood
 {
     internal static class Program
     {
